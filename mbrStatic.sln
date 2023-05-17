@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrStatic", "mbrStatic\mbrStatic.vcxproj", "{F1A621ED-E022-4469-8547-2EFC4F26F18B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrStaticfunc", "mbrStaticfunc\mbrStaticfunc.vcxproj", "{259A153F-A4C6-45BF-87C4-53241B5DDE50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{F1A621ED-E022-4469-8547-2EFC4F26F18B}.Release|x64.Build.0 = Release|x64
 		{F1A621ED-E022-4469-8547-2EFC4F26F18B}.Release|x86.ActiveCfg = Release|Win32
 		{F1A621ED-E022-4469-8547-2EFC4F26F18B}.Release|x86.Build.0 = Release|Win32
+		{259A153F-A4C6-45BF-87C4-53241B5DDE50}.Debug|x64.ActiveCfg = Debug|x64
+		{259A153F-A4C6-45BF-87C4-53241B5DDE50}.Debug|x64.Build.0 = Debug|x64
+		{259A153F-A4C6-45BF-87C4-53241B5DDE50}.Debug|x86.ActiveCfg = Debug|Win32
+		{259A153F-A4C6-45BF-87C4-53241B5DDE50}.Debug|x86.Build.0 = Debug|Win32
+		{259A153F-A4C6-45BF-87C4-53241B5DDE50}.Release|x64.ActiveCfg = Release|x64
+		{259A153F-A4C6-45BF-87C4-53241B5DDE50}.Release|x64.Build.0 = Release|x64
+		{259A153F-A4C6-45BF-87C4-53241B5DDE50}.Release|x86.ActiveCfg = Release|Win32
+		{259A153F-A4C6-45BF-87C4-53241B5DDE50}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
