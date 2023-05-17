@@ -16,7 +16,7 @@ public:
 
 mahasiswa::mahasiswa() {
 	nim = 0;
-	nama = "";
+	nama = ""; 
 }
 
 mahasiswa::mahasiswa(int iNim) {
